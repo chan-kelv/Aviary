@@ -1,0 +1,26 @@
+{
+  "name": "ornitholo-facts-bot",
+  "version": "1.0.0",
+  "description": "Bird Facts Twitch Bot",
+  "main": "birdBot.js",
+  "scripts": {
+    "test": "debugBird"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chan-kelv/Aviary.git"
+  },
+  "keywords": [
+    "twitch",
+    "bird"
+  ],
+  "author": "kelv.in.focus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chan-kelv/Aviary/issues"
+  },
+  "homepage": "https://github.com/chan-kelv/Aviary#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
